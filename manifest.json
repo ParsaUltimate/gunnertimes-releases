@@ -1,0 +1,324 @@
+{
+  "schema": 1,
+  "version": "gunnertimes-2026.11.24",
+  "files": [
+    {
+      "path": "mods/AmbientSounds_FABRIC_v6.3.11_mc26.3.jar",
+      "sha512": "bd042fec99c1178f5521166f4a0284a2d5d9780e43a20404b62933f3870bfa957ec30c038173df14ce615b095e73b5a78484a416d8b02c8aeadf2973f53426d0",
+      "url": "https://cdn.modrinth.com/data/fM515JnW/versions/LFUkYKC1/AmbientSounds_FABRIC_v6.3.11_mc26.3.jar",
+      "modId": "ambientsounds"
+    },
+    {
+      "path": "mods/architectury-fabric-22.0.5.jar",
+      "sha512": "14c61af2088b80b465f06edd3b3005038fa5be1c95a2161ce712c8da408a358038b7cd7ae4acf3198f6d47c693e4fdf65d646dac7e124f7cdd7f32bbc0dcd0ce",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1pMaB6So/architectury-fabric-22.0.5.jar",
+      "modId": "architectury"
+    },
+    {
+      "path": "mods/ATi%20Structure%20V1.4.7%20(26.3).jar",
+      "sha512": "8392cb297028f382f7e2296e289d56dce70af33366886989913c9a919749cd413013ee2f82e8998e6b1a92118ccdd11a78ad07e73a9f2da09dce4a56e29a3b97",
+      "url": "https://cdn.modrinth.com/data/bii8qPSt/versions/vhuSIT7K/ATi%20Structure%20V1.4.7%20%2826.3%29.jar",
+      "modId": "mr_ati_structuresfabricforge"
+    },
+    {
+      "path": "mods/audioplayer-fabric-2.5.2-26.3.jar",
+      "sha512": "e9f18107615d0cffadc346e6fa8970792fb44124af421af24cb1ff3e6acc5b118f462459076581830721598a3847892f03c4d6bede19f657f9b85a22193ed4cd",
+      "url": "https://cdn.modrinth.com/data/SRlzjEBS/versions/ndGCZDJJ/audioplayer-fabric-2.5.2%2B26.3.jar",
+      "modId": "audioplayer"
+    },
+    {
+      "path": "mods/BadOptimizations-2.4.1-26.3-fabric.jar",
+      "sha512": "048a0979807afb96bae7801b7445746c985081bb55fab9b80b286036234a9869cc84f83c40ab77a2600b7e06ad44178ee17935b706b751c9b38f87ebc6e180f8",
+      "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/Sp0ctspw/BadOptimizations-2.4.1-26.3-fabric.jar",
+      "modId": "badoptimizations"
+    },
+    {
+      "path": "mods/BridgingMod-2.7.0%2B26.3.fabric-release.jar",
+      "sha512": "a8241b5df1402f7447e43a65a99880ff75170ba683453c400a1e2888ff647474645a3ecadcc823c16aca2b009006ab4cc6c7ef5299e24408ddcf550b2321ded7",
+      "url": "https://cdn.modrinth.com/data/lO3s8hjs/versions/qRuZJe5U/BridgingMod-2.7.0%2B26.3.fabric-release.jar",
+      "modId": "bridgingmod"
+    },
+    {
+      "path": "mods/cloth-config-26.3.158.jar",
+      "sha512": "16975b66f5c1e08443883db44079c89e26a9e237ea9a07d82faf3a899c9337e39a8cb4e5a8c4cad7796ed6a0c40f720cbb9baf0f0fc8a02f3e83246362f23792",
+      "url": "https://edge.forgecdn.net/files/8884/63/cloth-config-26.3.158.jar",
+      "modId": "cloth-config"
+    },
+    {
+      "path": "mods/Clumps-fabric-26.3-26.3.2.jar",
+      "sha512": "8c166ae97e1999d0f213d0a181d6ef87b99648016c92c9aa1414d2c2e24364b12549569cd7e247a3d675df703ae6a8a88fc175d3f527818c710578408508c8ab",
+      "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/J4I1wxJZ/Clumps-fabric-26.3-26.3.2.jar",
+      "modId": "clumps"
+    },
+    {
+      "path": "mods/CreativeCore_FABRIC_v2.14.25_mc26.3.jar",
+      "sha512": "850a061691e57815ba9ab5df9c6ff2ab2a452496660059fec0c6fdeb10cee18b3fd67b3f7b7c5aea5725db5da1df2df68a0b5d9cc04c0ba251524aabac2f4890",
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/pB8O6fTf/CreativeCore_FABRIC_v2.14.25_mc26.3.jar",
+      "modId": "creativecore"
+    },
+    {
+      "path": "mods/cupboard-fabric-26.3-4.2.jar",
+      "sha512": "69ea0d4cf5f8333d771c5f789eec9ddf58341e1da818d01e7e59a88775c5eff3b371bdd901b53bb5103ce25583098d75fc9e8d12570f06f4ea57fa3a9c566349",
+      "url": "https://edge.forgecdn.net/files/8890/593/cupboard-fabric-26.3-4.2.jar",
+      "modId": "cupboard"
+    },
+    {
+      "path": "mods/dont-punch-my-tacz-v0.5.2-26.x-fabric.jar",
+      "sha512": "77b2cdab6c3566630904f2ecd8ffa9034c61a1ef02833ad567381563cf4afde1eab1cbfa1e87406477f313242a1524957a2c0ace7b2ed305829c7e3aee523854",
+      "url": "https://cdn.modrinth.com/data/BdT7bXL2/versions/BKBTT3j5/dont-punch-my-tacz-v0.5.2-26.x-fabric.jar",
+      "modId": "dontpunchmytacz"
+    },
+    {
+      "path": "mods/dungeons-and-taverns-6.2.0-Fabric.jar",
+      "sha512": "50026030aad407fac8cb461d3bc334fd53fc938ead4d80d618fa71c8d020c91c66e77649dea2331e977831d0363e6a39cdb734b8d91060364528baf1ecfc9a0a",
+      "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/SeFWyzVX/dungeons-and-taverns-6.2.0.jar",
+      "modId": "mr_dungeons_andtaverns"
+    },
+    {
+      "path": "mods/dynamic-fps-3.11.10%2Bminecraft-26.3.0-fabric.jar",
+      "sha512": "7976d11411babfa3ac0c38898f26ee6192f22a4f595b637eeae3cc5185f326c0e4b9fd7d00b3d7e8d020dd861295f0df52f9a9d7c67e88946d0ba9fff4a9f894",
+      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Jwq069rR/dynamic-fps-3.11.10%2Bminecraft-26.3.0-fabric.jar",
+      "modId": "dynamic_fps"
+    },
+    {
+      "path": "mods/Elite X Quality Guns Fabric Final v6.1 - 26.3.jar",
+      "sha512": "9ccaba9de668498a55b4baf976e65576d15fad62d74850e7527413e83c5dc6c37ef091d052c825584b06ff8ca7a5310c41475daa01d31e7a63be1a69cb2f802e",
+      "url": "https://cdn.modrinth.com/data/X4uLYuhT/versions/Gl77Ckbr/Elite%20X%20Quality%20Guns%20Fabric%20Final%20v6.1%20-%2026.3.jar",
+      "modId": "elitex"
+    },
+    {
+      "path": "mods/entityculling-fabric-1.12.0-mc26.3.jar",
+      "sha512": "1ca3395674d49f9014309d8f2e198dc44908620f60ea9c1c5e25919edba1091dbedce8222f98c43bbaf2c54cdf1696e14d62ecce34bdde9de7e2e29dcf5f1e7a",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/fD6iRzOi/entityculling-fabric-1.12.0-mc26.3.jar",
+      "modId": "entityculling"
+    },
+    {
+      "path": "mods/Explorify-v1.6.6.mod.jar",
+      "sha512": "d4368c83b493c6fcf9b489cd91b4d1e468d695d099d9df3845a6fcee07ef58dc35074557d0108627b98c9941b1e6a6c0bcdbbcd121e8915514a21b91e9d38530",
+      "url": "https://cdn.modrinth.com/data/HSfsxuTo/versions/oyrAnNG8/Explorify%20v1.6.6.mod.jar",
+      "modId": "explorify"
+    },
+    {
+      "path": "mods/fabric-api-0.166.2-26.3.jar",
+      "sha512": "fb686a9fa923248328107a12498229d6951e316257f18b7d0e4cbd6885ba447ed50a44076a8a5ba47cfe2043b329db3587ab000aeab1face26b2587a5d4ba6b5",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Zns5SSRA/fabric-api-0.166.2%2B26.3.jar",
+      "modId": "fabric-api"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
+      "sha512": "7fb475c4a7e7bdf8d0aca4b5798a58a354c51443d5b1fbde3e8cf34dfbf7191ef4238b5f07d08ec9490ec180b371624523326c3ad45d4ed2b2be541de9407e5d",
+      "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/SKW1BTL3/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
+      "modId": "fabric-language-kotlin"
+    },
+    {
+      "path": "mods/FarmersDelight-26.3-3.6.30+refabricated.jar",
+      "sha512": "099f724599022ac9232f265d62907fdde6ad48a73b246d45930d938a7f850be6a8b520244ffa218a59fdef96b0170fc0c04f00ff91f108b5a02bbc4cb2a013bc",
+      "url": "https://cdn.modrinth.com/data/7vxePowz/versions/dRScyUeE/FarmersDelight-26.3-3.6.30%2Brefabricated.jar",
+      "modId": "farmersdelight"
+    },
+    {
+      "path": "mods/ferritecore-9.0.0-fabric.jar",
+      "sha512": "d81fa97e11784c19d42f89c2f433831d007603dd7193cee45fa177e4a6a9c52b384b198586e04a0f7f63cd996fed713322578bde9a8db57e1188854ae5cbe584",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar",
+      "modId": "ferritecore"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+      "sha512": "b9339c21e14beec2eae0ca215317284bcaacef72e1d1dee8b3dfbe2de0eefaa758a172446df85419b6534557c479abe972d7d21f4ec194f2d436f9ed4329cb9f",
+      "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/JpKvrr9J/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+      "modId": "forgeconfigapiport"
+    },
+    {
+      "path": "mods/freecam-fabric-1.5.1%2Bmc26.3.jar",
+      "sha512": "bc7bf23c41e5c3ddb43f4b455ff7d4d061cff8b574ff33aef0450a2c5ab9acd992020a9ffe6c0478993248861ee1232a85f7d64f19ad9c4e1f37d6cbdfbcb3b1",
+      "url": "https://cdn.modrinth.com/data/XeEZ3fK2/versions/lwrkvqym/freecam-fabric-1.5.1%2Bmc26.3.jar",
+      "modId": "freecam"
+    },
+    {
+      "path": "mods/fzzy_config-0.7.7%2Bfix3%2B26.3.jar",
+      "sha512": "bbf47ab921fec1215d6e59ab0d875b565c22bbf039ae985b6e64313412b66835c443006c428ac9b8ef7ba396a4e0aa2bb0d65126c95a595bc56376655cb1c9ee",
+      "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/YkOumqzV/fzzy_config-0.7.7%2Bfix3%2B26.3.jar",
+      "modId": "fzzy_config"
+    },
+    {
+      "path": "mods/geckolib-fabric-26.3-5.5.7.jar",
+      "sha512": "c7c89bd6c5f2801ef1575e2e1212202f5a3eff480d73503beff12b1d60dfb751112fccf36e36c243b26b6b492261cef12d8b2c1a92a734bb0b621daa8c158fc5",
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/kSxHvs99/geckolib-fabric-26.3-5.5.7.jar",
+      "modId": "geckolib"
+    },
+    {
+      "path": "mods/grim-kingdoms-lost-structures-ruins-2.0.3.jar",
+      "sha512": "441e23bac567a6af3051bb97029c775646bf7c1f3b31741975bb4e25abfa488a6271e3036d6d0f3921ce7c92461e2cfd9afc74a0d9fd1a93d86d816b326e2f00",
+      "url": "https://cdn.modrinth.com/data/f4d4E9De/versions/2HwCrjkl/grim-kingdoms-lost-structures-ruins-2.0.3.jar",
+      "modId": "mr_grim_kingdomsloststructuresruins"
+    },
+    {
+      "path": "mods/ImmediatelyFast-Fabric-1.17.1%2B26.3.jar",
+      "sha512": "8e139589fd995bce3d485a34d92a07243964212f7ed2e4fc2f6de5b9a74d0f59b03252e7ce40c64e006cf3e21bed5de27b830d33ef048b286e041f6178ad8428",
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/3MP9UR23/ImmediatelyFast-Fabric-1.17.1%2B26.3.jar",
+      "modId": "immediatelyfast"
+    },
+    {
+      "path": "mods/InventoryProfilesNext-fabric-26.3-2.3.8.jar",
+      "sha512": "dbd7d0eeb71108f5d784dfe7aad6f0e774893491a8b571f9886df9fbed01803abbb63c1ea88765aa08a838044885cc1aef85c5d85a94c8945120f2f973c0ecad",
+      "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/y8vT21Sb/InventoryProfilesNext-fabric-26.3-2.3.8.jar",
+      "modId": "inventoryprofilesnext"
+    },
+    {
+      "path": "mods/iris-fabric-1.11.7%2Bmc26.3.jar",
+      "sha512": "d8d3312f77fc52a48e4a6cd836fda33669bdebcb4de0b8c0d30adc808b287330a533e0baef355cc1ce6336a26851d9775369a802a4666b7b7a6266af20088f42",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/vTN4NRGW/iris-fabric-1.11.7%2Bmc26.3.jar",
+      "modId": "iris"
+    },
+    {
+      "path": "mods/journeymap-fabric-26.3-6.0.10.jar",
+      "sha512": "d461b24b3eeaf74ecc75911542cfbfeefe7148a2a260453f15af047d1a895f6484b8e21816de990dc25987d747cc1cccdd5386e8c51a5dcc72a1356b39139bf2",
+      "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/2zmj8ela/journeymap-fabric-26.3-6.0.10.jar",
+      "modId": "journeymap"
+    },
+    {
+      "path": "mods/libIPN-fabric-26.3-6.9.0.jar",
+      "sha512": "a580af93344e21f985c34e5bfe74361767a4ba49ced96d50c917d5008d9eb32e797e0ff68c010319c6116b6859fa5fb39544f4f78dd9f7892554340d86420abd",
+      "url": "https://cdn.modrinth.com/data/onSQdWhM/versions/aKBFonyQ/libIPN-fabric-26.3-6.9.0.jar",
+      "modId": "libipn"
+    },
+    {
+      "path": "mods/lithium-fabric-0.26.3-mc26.3.jar",
+      "sha512": "2ca92fb530135d2baddf0ba4cc4f93976234876a38c4aa02b487b2552400f005afcfbeebf5373fb4396fe2020537a42d7597b8da5a52b904355ef51d5fef07ad",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/fWv5bnZk/lithium-fabric-0.26.3%2Bmc26.3.jar",
+      "modId": "lithium"
+    },
+    {
+      "path": "mods/lithostitched-2.0.6-fabric-26.3.jar",
+      "sha512": "d7ffe9bb3ea653ae70317f8621c546e3331369c0dd3cd6cadb374cc71283ca1fae1e7de7d2d16eb5724e96f7159c8b043e15a618f32dad88c8e70a7d8d1db4ee",
+      "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/pZgI6b2t/lithostitched-2.0.6-fabric-26.3.jar",
+      "modId": "lithostitched"
+    },
+    {
+      "path": "mods/mezz_config-26.3-fabric-0.7.1.jar",
+      "sha512": "3edb3239ece519c6de657d14faa17838afbe37f85cfe1d9b505f5519257794d929d18e54071e993efff26ac68ed98a6b05037db73f2c0d3da8f018733c3ebb6d",
+      "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/26GXFp06/mezz_config-26.3-fabric-0.7.1.jar",
+      "modId": "mezz_config"
+    },
+    {
+      "path": "mods/modernfix-5.27.20-build.2.jar",
+      "sha512": "b586434056107aac4ef86e9351d66170dac65a45a1e5f8bd48fb931b3012ab2431b16476eb9c256773339e2b4c60f6f3e90a4709180f700b2aea59ff607f4243",
+      "url": "https://cdn.modrinth.com/data/TjSm1wrD/versions/pa9cAfYg/modernfix-5.27.20-build.2.jar",
+      "modId": "modernfix"
+    },
+    {
+      "path": "mods/modmenu-21.0.0.jar",
+      "sha512": "588c0c557963f4778572ee81bfafc190b332c26d5926c5fe7e3e1614dcf8e14f58e3bc80a97694521dd05907e9753a7c8575048ea769e4dbf40a3db74a4e2606",
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/kyy7dbrZ/modmenu-21.0.0.jar",
+      "modId": "modmenu"
+    },
+    {
+      "path": "mods/MoogsStructureLib-fabric-26.3-3.4.2.jar",
+      "sha512": "2ebd787cfd2ba0622c44ab853b8daeae7039f1e73d4872218e536ea969e06503cae84351f037a1d007892ee4b4971f98770f7a1d68fa69ae4e164c59ad29bac9",
+      "url": "https://cdn.modrinth.com/data/1oUDhxuy/versions/SkD4H9XM/MoogsStructureLib-fabric-26.3-3.4.2.jar",
+      "modId": "moogs_structures"
+    },
+    {
+      "path": "mods/MutantsZombies-1.3.3-Fabric-mc26.1.jar",
+      "sha512": "525dac5632043173f3a43747a87ed1037c2628340edab88ec473fb594385bb4034f3fb69f5c3bf67a1dc0d83e5e16e7d4195837c4267d0587e57eb09a13a60a0",
+      "url": "https://cdn.modrinth.com/data/W0C544GP/versions/cwMAbHd8/MutantsZombies-1.3.3-Fabric-mc26.1.jar",
+      "modId": "mutantszombies"
+    },
+    {
+      "path": "mods/Overstack-26.3.jar",
+      "sha512": "fcd99b51190e39414ec6ebe2ada1c8c9d755eaf47669df0f11ebfe61eb9a43c4d8763d67b32a1ab00f0125598e67261dffd8b021b8686ef2cca0856bcb8584c5",
+      "url": "https://edge.forgecdn.net/files/9236/65/Overstack-26.3.jar",
+      "modId": "overstack"
+    },
+    {
+      "path": "mods/particle_core-0.3.3%2Bfix1%2B26.2.jar",
+      "sha512": "7818227221913c2be92f7ef2882abfa85629e126fdd86c5715772df27334c1774aa30a87e88cd373d7d65cebdde2576592b10767ac62fcb5de2cf54d41a8bca5",
+      "url": "https://cdn.modrinth.com/data/RSeLon5O/versions/NPLw1nMG/particle_core-0.3.3%2Bfix1%2B26.2.jar",
+      "modId": "particle_core"
+    },
+    {
+      "path": "mods/PatPat-1.3.2%2B26.3%2Bfabric.jar",
+      "sha512": "dce5f88145093640ef7fe159e1ff24d2860e07ff4b3f549839948440bce8ff7ab0bb909c2f21baac86585489fd15962176750ce630f324a27225a171d3f5ed33",
+      "url": "https://cdn.modrinth.com/data/dw7LChq9/versions/WVRk2pJA/PatPat-1.3.2%2B26.3%2Bfabric.jar",
+      "modId": "patpat"
+    },
+    {
+      "path": "mods/Player%20Corpses%203.8%20%5B1.21.9%2B%5D.jar",
+      "sha512": "92ff7a085e881d82138345b0595d38639b0ce020863dccfcec7ca1511e0c7a1bee4895911b311f3dbd31c083ea602af3b1683a5d4e3175739dccd45b8254955f",
+      "url": "https://cdn.modrinth.com/data/jzoouHnf/versions/dqNslZrU/player-death-corpses-3.8.jar",
+      "modId": "mr_player_deathcorpses"
+    },
+    {
+      "path": "mods/PlayerAnimationLibMerged-1.2.9-mc.26.3.jar",
+      "sha512": "8b2644fb5e593cd85d4859c2e78aefa494a818f6a8b62ae85d92de98c73bc80cd2a61d2d9e90b2e094b49e8ec715b5dc8cc23442e38b6cbb3ba797eb34bdd979",
+      "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/lQIjpkZc/PlayerAnimationLibMerged-1.2.9%2Bmc.26.3.jar",
+      "modId": "player_animation_library"
+    },
+    {
+      "path": "mods/punchy-3.2a-fabric-26.3.jar",
+      "sha512": "cd9a2330c091ac9fa5f9987fade68e7d0d3cfd4e825ebcdf133449a38607ff6fe5727030c0cd690dcba0c0ce37f3c689f4056418e816fd0bec0accb4323b4b9a",
+      "url": "https://cdn.modrinth.com/data/8aoMKplv/versions/3CzwZob9/punchy-3.2a-fabric-26.3.jar",
+      "modId": "punchy"
+    },
+    {
+      "path": "mods/punchy-moves-1.0.9-fabric-26.3.jar",
+      "sha512": "1639877e68b361738efd21083d3009ae043f92f68b908181e377fae99eb00642215f38f6b99fb0cd49a0f4de142ae59dab980f513934a78a3639ccd2188edfba",
+      "url": "https://cdn.modrinth.com/data/mzgtK8pY/versions/lRMHnY4W/punchy-moves-1.0.9-fabric-26.3.jar",
+      "modId": "punchy_moves"
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-26.3.824.jar",
+      "sha512": "7724d8e8dc50248641686c878b6b60736572c49e0cd8c71640c1c57fe85aed9941cad8ff7806b923903253da3540ff3df9bf619d701f50b904990fa7cdd59ee9",
+      "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/rKsAE6bX/RoughlyEnoughItems-26.3.824.jar",
+      "modId": "roughlyenoughitems"
+    },
+    {
+      "path": "mods/sodium-fabric-0.9.2+mc26.3.jar",
+      "sha512": "f3f260f204b8ce5e8777c2c73f537956755ec61f3817b0b78b5e5568e8aa40f14891f146475075109747665c7c88a45ca0ca9a8df3c68d79c58ecdaa8d8c4b93",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/bAZQdGpg/sodium-fabric-0.9.2%2Bmc26.3.jar",
+      "modId": "sodium"
+    },
+    {
+      "path": "mods/sound-physics-remastered-fabric-1.5.2+26.3.jar",
+      "sha512": "1752e63f490b97617f62f8a32713e40b305d87e35b471d956335bcce4ab8b3a40df5b398896ab9b24b930e7869533c3086baa31b4adb35faf5851d3eecf46c0c",
+      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/gA7nKz5g/sound-physics-remastered-fabric-1.5.2%2B26.3.jar",
+      "modId": "sound_physics_remastered"
+    },
+    {
+      "path": "mods/spark-1.10.187-fabric.jar",
+      "sha512": "c74bf5d5a16b2445ec6ea717eac756412b272a8015e91f91a7bf5a27e6f2f99c4a11878d434510f941f37b0344b3a7d1ba0dd6c34e80642762c48fb6e9a93894",
+      "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/e3hsPc1o/spark-1.10.187-fabric.jar",
+      "modId": "spark"
+    },
+    {
+      "path": "mods/spatial-gui-1.11.1-26.3-fabric.jar",
+      "sha512": "4a3fd9375faef1029abf6bcf18d52fc3ea63c9fe91d34c2a38a532ed75d6002dbf3d72fb1af162a93dbc5161476c5a54e8c691e16550a937e69127f1782dcac4",
+      "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/amLgW5yt/spatial-gui-1.11.1%2B26.3-fabric.jar",
+      "modId": "spatial_gui"
+    },
+    {
+      "path": "mods/TACZ-Refabricated-26.3-1.1.8+fabric.26.3.R1-hotfix3.jar",
+      "sha512": "1c690d1e2c875e35c131c1003a334d54f12ad243fe6fb8b95b1f244a3dd5debc5123c4bd95918723d310cd469447ec6ea98769d929d2afcf6f992374d72382e2",
+      "url": "https://edge.forgecdn.net/files/9339/97/TACZ-Refabricated-26.3-1.1.8%2Bfabric.26.3.R1-hotfix3.jar",
+      "modId": "tacz"
+    },
+    {
+      "path": "mods/tradeview-1.2.0-26.3-fabric.jar",
+      "sha512": "2d00e0e2fa2048cf1ad40b13dd5106c1ad07c6c64fdf79d9c939d6f0482bd56593b9cd220fda3fea1c0433f05753badb9011e55a1416795a876d3fa685f13f3e",
+      "url": "https://edge.forgecdn.net/files/9156/923/tradeview-1.2.0-26.3-fabric.jar",
+      "modId": "tradeview"
+    },
+    {
+      "path": "mods/voicechat-fabric-2.6.27+26.3.jar",
+      "sha512": "f2de66761c0f249bb0f9a4b348f98b97ab4e89d3ed3fd37638420364b7431b757933aa08c0cc3e7ba3dd85a602d6c2de313c2309fc587e93cabf31fc5f6df27e",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/x9jLR94Q/voicechat-fabric-2.6.27%2B26.3.jar",
+      "modId": "voicechat"
+    },
+    {
+      "path": "mods/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
+      "sha512": "f3957028dd31cae78f08aee3e768f61bd12c4c8423257d357bc3c1a2172047c769d37901f99775c7ffff1e5ee794025dc72738b2869cab06f1c2811841d68b24",
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/s9SjoFu1/yet_another_config_lib_v3-3.9.7%2B26.3-fabric.jar",
+      "modId": "yet_another_config_lib_v3"
+    }
+  ]
+}
